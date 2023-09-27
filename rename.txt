@@ -1,0 +1,21 @@
+campaigns - stratergies, pr campaigns
+leads-sales leads
+potential-prospects
+contacts- associates
+
+
+Experienced Software Tester with a robust background encompassing both automation and manual testing.
+possesing more than 2 years of hands-on experience in automation testing, encompassing  a deep understanding of various automation tools and frameworks, 
+such as Selenium and TestNG, and 
+I have successfully automated test cases to enhance testing process efficiency and precision.I am also proficient in Java Programming langugae and possess a 
+solid foundation in object-oriented programming concepts.
+ 
+
+
+In addition to my proficiency in Automation testing, I have dedicated over 2+ years to honing my skills in Manual testing as well,
+demonstrating a sharp attention to detail and a comprehensive grasp of software testing methodologies. 
+My expertise extends to crafting comprehensive test plans, executing test cases, and meticulously documenting test results.
+
+ .
+
+I excel at fostering collaboration with cross-functional teams and consistently delivering test solutions that surpass project objectives. 
